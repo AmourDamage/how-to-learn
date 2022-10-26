@@ -24,19 +24,7 @@
 
 }
 
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
-.header__square-pic {
-  height: 568px;
-  width: 568px;
-}
 
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
 
 
 .logo {
@@ -296,9 +284,7 @@ ul {
   z-index: 3;
 }
 
-.table_theme_dark {
-  z-index: 2;
-}
+
 
 .table__heading_theme_dark {
   line-height: 1.15;
@@ -321,6 +307,7 @@ ul {
 
 .table_theme_dark {
   row-gap: 80px;
+  z-index: 2;
 }
 
 .kaufman__triangle {
@@ -391,7 +378,7 @@ ul {
   padding: 0px 0px 16px 0px;
   line-height: 30px;
   font-size: 18px;
-  font-weight: normal
+  font-weight: normal;
 }
 
 .footer__column-link {
