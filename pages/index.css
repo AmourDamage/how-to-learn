@@ -17,7 +17,7 @@
 
 
 
-/* content starts */ 
+
 
 @import url(/blocks/description/description.css);
 @import url(/blocks/two-columns/two-columns.css);
@@ -27,7 +27,7 @@
 @import url(/blocks/two-columns/__span-accent/two-columns__span-accent.css);
 
 
-/* tecniques starts */
+
 
 @import url(/blocks/techniques/tecniques.css);
 @import url(/blocks/section-title/section-title.css);
@@ -38,7 +38,7 @@
 @import url(/blocks/cards/__title/cards__title.css);
 @import url(/blocks/cards/__description/cards__description.css);
 
-/* video starts */
+
 
 @import url(/blocks/video/video.css);
 @import url(/blocks/section-title/section-title.css);
@@ -46,13 +46,13 @@
 @import url(/blocks/video/__iframes/video__iframes.css);
 
 
-/* oakley starts */
+
 
 @import url(/blocks/oakley/oakley.css);
 
 
 
-/* digits starts */ 
+
 
 @import url(/blocks/digits/digits.css);
 @import url(/blocks/section-title/section-title.css);
@@ -64,7 +64,7 @@
 @import url(/blocks/table/__text/table__text.css);
 
 
-/* khan starts */ 
+
 @import url(/blocks/khan/khan.css);
 @import url(/blocks/khan/__container/khan__container.css);
 @import url(/blocks/khan/__author/khan__author.css);
@@ -77,15 +77,14 @@
 @import url(/blocks/khan/__buy-link/khan__buy-link.css);
 
 
-/* feynman starts */
+
 
 @import url(/blocks/feynman/feynman.css);
-
 @import url(/blocks/feynman/__title/feynman__title.css);
 @import url(/blocks/feynman/__subtitle/feynman__subtitle.css);
 @import url(/blocks/feynman/__link/feynman__link.css);
 
-/* kaufman starts */ 
+
 
 @import url(/blocks/kaufman/kaufman.css);
 @import url(/blocks/section-title/section-title.css);
@@ -103,14 +102,14 @@
 @import url(/blocks/kaufman/__triangle/kaufman__triangle.css);
 
 
-/* resources start */
+
 
 
 @import url(/blocks/resources/resources.css);
 @import url(/blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(/blocks/resources/__logo/resources__logo.css);
 
-/* footer starts */ 
+
 
 @import url(/blocks/footer/footer.css);
 @import url(/blocks/footer/__columns/footer__columns.css);
