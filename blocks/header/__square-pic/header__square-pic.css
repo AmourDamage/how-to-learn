@@ -1,4 +1,3 @@
-
 .header__square-pic {
     width: 568px;
     height: 568px;
@@ -6,9 +5,5 @@
     position: absolute;
     right: 0px;
     top: 64px;
-    animation: rotation;
-    animation-duration: 20s;
-    animation-iteration-count: infinite;
-  
   }
 

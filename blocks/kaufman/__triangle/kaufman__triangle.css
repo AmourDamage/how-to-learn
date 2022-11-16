@@ -4,7 +4,4 @@
     position: absolute;
     right: -210px;
     top: 0;
-    animation: rotation;
-    animation-duration: 20s;
-    animation-iteration-count: infinite;
   }
